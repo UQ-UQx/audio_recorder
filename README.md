@@ -18,3 +18,10 @@ Your browser does not support IFrames.
 UQx Technical team - 
 
 technical@uqx.uq.edu.au
+
+# Contributors
+
+Maintainer: [ankithkonda](https://github.com/ankithkonda)
+
+Original Author: [Simultech](https://github.com/simultech)
+
